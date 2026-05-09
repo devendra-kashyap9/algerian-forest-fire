@@ -1,0 +1,6 @@
+# virtual environment
+venv/
+
+# ml models pickle
+models/
+
